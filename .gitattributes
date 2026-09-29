@@ -1,0 +1,3 @@
+# Make GitHub detect .m files as MATLAB (not Objective-C).
+# Intentionally no text/eol rules: original files must keep their exact bytes.
+*.m linguist-language=MATLAB
